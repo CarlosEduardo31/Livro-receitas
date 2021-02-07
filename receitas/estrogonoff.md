@@ -1,7 +1,6 @@
-#Strogonoof de frango :chicken:
+#Strogronoff de Frango :chicken:
 
 - 3 peito de frango cortados em cubos
-
 - 1 dente de alho picado
 - sal e pimenta a gosto
 - 1 cebola picada
